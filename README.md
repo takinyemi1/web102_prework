@@ -25,10 +25,12 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
+<a href='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVtcWJlYWMyOGs3eDdtMG9kc3Fqc2RlejgxNmRmdWl5bjI2M2xwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E6jhLqU1QQgAAZBrMR/giphy.gif'>PreWork_Gif</a>
+
 <img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVtcWJlYWMyOGs3eDdtMG9kc3Fqc2RlejgxNmRmdWl5bjI2M2xwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E6jhLqU1QQgAAZBrMR/giphy.gif' title='prework_gif' width='' alt='prework_gif' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with LICEcap.  
+GIF created with <a href='https://www.cockos.com/licecap/'>LICEcap</a>.  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
