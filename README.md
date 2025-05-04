@@ -26,7 +26,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <!-- <img src='https://giphy.com/embed/E6jhLqU1QQgAAZBrMR' title='prework_gif' width='150' alt='prework_gif' /> -->
-<div style="width:100%;height:0;padding-bottom:48%;position:relative;"><iframe src="https://giphy.com/embed/E6jhLqU1QQgAAZBrMR" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/E6jhLqU1QQgAAZBrMR">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:48%;position:relative;"><img src="https://giphy.com/embed/E6jhLqU1QQgAAZBrMR" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></div><p><a href="https://giphy.com/gifs/E6jhLqU1QQgAAZBrMR">via GIPHY</a></p>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with <a href='https://www.cockos.com/licecap/'>LICEcap</a>.  
