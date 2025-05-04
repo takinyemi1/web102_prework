@@ -27,8 +27,9 @@ Here's a walkthrough of implemented features:
 
 <img src='prework_gif.gif' title='prework_gif' width='200' alt='prework_gif' />
 
-<a href="https://giphy.com/embed/E6jhLqU1QQgAAZBrMR">PreWork Gif</a> 
-<!-- <p><a href="https://giphy.com/gifs/E6jhLqU1QQgAAZBrMR">via GIPHY</a></p> -->
+<!-- <a href="https://giphy.com/embed/E6jhLqU1QQgAAZBrMR">PreWork Gif</a>  -->
+
+<p><a href="https://giphy.com/gifs/E6jhLqU1QQgAAZBrMR">via GIPHY</a></p>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with <a href='https://www.cockos.com/licecap/'>LICEcap</a>.  
