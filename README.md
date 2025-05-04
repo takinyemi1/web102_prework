@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='prework_gif.gif' title='prework_gif' width='500' alt='prework_gif' />
+<img src='prework_gif.gif' title='prework_gif' width='550' alt='prework_gif' />
 
 <p><a href="https://giphy.com/gifs/E6jhLqU1QQgAAZBrMR">via GIPHY</a></p>
 
@@ -38,7 +38,6 @@ GIF created with <a href='https://www.cockos.com/licecap/'>LICEcap</a>.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 One challenge I faced was completing challenge 4 because I was unsure of how the parameters worked for the reduce function.
 
 Another challenge was using the ternary operator because I was unfamiliar with using it.
