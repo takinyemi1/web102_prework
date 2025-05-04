@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://giphy.com/embed/E6jhLqU1QQgAAZBrMR' title='prework_gif' width='150' alt='prework_gif' />
+<img src="https://media.giphy.com/media/E6jhLqU1QQgAAZBrMR/giphy.gif" width="150" alt="prework_gif" />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with <a href='https://www.cockos.com/licecap/'>LICEcap</a>.  
